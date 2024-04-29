@@ -1,2 +1,4 @@
-# tkinter-calculator
-calculator with tkinter gui
+# tkinter calculator
+- calculator
+- tkinter gui
+- automaton to check valid input
