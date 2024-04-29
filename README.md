@@ -1,4 +1,4 @@
 # tkinter calculator
-- calculator
-- tkinter gui
-- automaton to check valid input
+calculator app.
+using Tkinter for GUI.
+with automaton to check if the input is valid 
